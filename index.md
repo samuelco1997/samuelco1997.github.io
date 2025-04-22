@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Welcome
+title: Portfolio
 ---
 
-# Sam C.'s Data Science and Analytics Portfolio
+# Welcome to Sam C.'s Data Science and Analytics Portfolio
 
 This site showcases my data science and analytics-related academic projects, work projects, and passion projects. My consolidated github repository for these projects can be found [here](https://github.com/samuelco1997/Portfolio), and the links to each can be found below for easier access:
 
