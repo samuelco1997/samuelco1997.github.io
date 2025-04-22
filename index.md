@@ -10,3 +10,5 @@ This site showcases my data science and analytics related work and projects, inc
 ## 🔬 Projects
 - [Predicting Graduation Rates with Regression-type ML Models](https://github.com/samuelco1997/Portfolio/tree/main/Predicting%20Graduation%20Rates%20with%20Regression-type%20ML%20Models)
 - [Classifying Election Violence using Machine Learning in Python](https://github.com/samuelco1997/Portfolio/tree/main/Classifying%20Election%20Violence%20using%20ML%20in%20Python)
+- [Dog Whistle Detection with LLM-Generated Word Embeddings] (https://github.com/samuelco1997/Portfolio/tree/main/Dog%20Whistle%20Detection%20with%20LLM-Generated%20Word%20Embeddings)
+  
