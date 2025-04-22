@@ -1,3 +1,3 @@
 title: Data Science Portfolio
 description: Interactive projects and notebooks
-theme: jekyll-theme-cayman  # or minimal, slate, hacker, etc.
+theme: slate  # or minimal, slate, hacker, etc.
