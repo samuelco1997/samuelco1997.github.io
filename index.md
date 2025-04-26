@@ -26,6 +26,6 @@ For this project in my Neural Networks class, I attempted to create a dog whistl
 This dashboard is the final product of my Google Data Analytics Certificate coursework. It shows health and happiness metrics across the world, pre-pandemic. My credentials for this certificate can be found [here](https://www.coursera.org/account/accomplishments/professional-cert/9QY9C49T9SJP?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof).
 
 ---
->More information on my background, credentials, and accomplishments can be found on my [LinkedIn](https://www.linkedin.com/in/samuel-cohen-b5878b163/) page. 
+More information on my background, credentials, and accomplishments can be found on my [LinkedIn](https://www.linkedin.com/in/samuel-cohen-b5878b163/) page. 
 
   
