@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Portfolio
+title: Data Science & Analytics Portfolio
 ---
 
-# Welcome to Sam C.'s Data Science and Analytics Portfolio
+# Welcome to Sam C.'s Portfolio
 
 This site showcases my data science and analytics-related academic projects, work projects, and passion projects. My consolidated github repository for these projects can be found [here](https://github.com/samuelco1997/Portfolio), and the links to each can be found below for easier access:
 
@@ -19,5 +19,5 @@ In this project for my Data Science II class, I created models that could classi
 For this project in my Neural Networks class, I attempted to create a dog whistle classification system using LLM-generated word embeddings from the DistilBERT transformer, in combination with traditional supervised learning techniques, namely K-Nearest Neighbor and Logistic Regression. Results were promising, with accuracy and F1 scores above 0.90.
 - [**World Health & Happiness Dashboard in Tableau**](https://public.tableau.com/app/profile/sam8656/viz/Worldhealthandhappiness/Dashboard1)
 
-This dashboard is the final product of my Google Data Analytics Certificate. It shows health and happiness metrics across the world, pre-pandemic.
+This dashboard is the final product of my Google Data Analytics Certificate coursework. It shows health and happiness metrics across the world, pre-pandemic. My credentials for this certificate can be found [here](https://www.coursera.org/account/accomplishments/professional-cert/9QY9C49T9SJP?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof).
   
