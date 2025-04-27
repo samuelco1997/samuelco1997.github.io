@@ -9,11 +9,11 @@ This site showcases my data science and analytics-related academic projects, wor
 
 ## 🔬 Projects
 
-- [**Predicting Graduation Rates with Regression-type ML Models**](https://github.com/samuelco1997/Portfolio/tree/main/Predicting%20Graduation%20Rates%20with%20Regression-type%20ML%20Models)
+- [**Predicting Graduation Rates with Regression-type ML Models in Python**](https://github.com/samuelco1997/Portfolio/tree/main/Predicting%20Graduation%20Rates%20with%20Regression-type%20ML%20Models)
 
   >For this personal portfolio project, I aimed to create an algorithm that could predict the 4-year graduation rate of higher education institutions using various performance metrics (school composition, enrollment and graduation rates, demographics, test scores, and more). A hyperparameter tuned XGBoost model showed the highest performance (MAE = 4.21, RMSE = 5.70).
 
-- [**Classifying Election Violence using Random Forests**](https://github.com/samuelco1997/Portfolio/tree/main/Classifying%20Election%20Violence%20using%20ML%20in%20Python)
+- [**Classifying Election Violence using Random Forests in Python**](https://github.com/samuelco1997/Portfolio/tree/main/Classifying%20Election%20Violence%20using%20ML%20in%20Python)
 
   >In this project for my Data Science II class, I created models that could classify the likelihood of instances of electoral violence using random forest algorithms. A random forest model was fit to the data, yielding an accuracy score of 0.85 and a F1 score of 0.78.
 
