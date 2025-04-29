@@ -13,6 +13,10 @@ This site showcases my data science and analytics-related academic projects, wor
 
 For this personal portfolio project, I aimed to create an algorithm that could predict the 4-year graduation rate of higher education institutions using various performance metrics (school composition, enrollment and graduation rates, demographics, test scores, and more). A hyperparameter tuned XGBoost model showed the highest performance (MAE = 4.21, RMSE = 5.70).
 
+- [**Topic Modeling & Sentiment Analysis of UN speeches in R**](https://github.com/samuelco1997/Portfolio/tree/main/Topic%20Modeling%20and%20Sentiment%20Analysis%20of%20UN%20Speeches%20in%20R)
+
+This project is my final project deliverable for my Text as Data & Computational Linguistics class. I decided to explore how topic modeling and sentiment anlaysis can be applied to UN speeches, as well as how these findings can be validated historically and geographically. I also employed a multivariate fixed-effects regression to analyze the effect of various world metrics on speech sentiment. A R Shiny dashboard with some of my compiled findings can be found [here](https://scohen97.shinyapps.io/tad_app/).
+
 - [**Classifying Election Violence using Random Forests in Python**](https://github.com/samuelco1997/Portfolio/tree/main/Classifying%20Election%20Violence%20using%20ML%20in%20Python)
 
 In this project for my Data Science II class, I created models that could classify the likelihood of instances of electoral violence using random forest algorithms. A random forest model was fit to the data, yielding an accuracy score of 0.85 and a F1 score of 0.78.
