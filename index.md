@@ -19,6 +19,7 @@ For this personal portfolio project, I aimed to create an algorithm that could p
 
 </details>
 
+
 - [**Topic Modeling & Sentiment Analysis of UN speeches in R**](https://github.com/samuelco1997/Portfolio/tree/main/Topic%20Modeling%20and%20Sentiment%20Analysis%20of%20UN%20Speeches%20in%20R)
 
 This project is my final project deliverable for my Text as Data & Computational Linguistics class. I decided to explore how topic modeling and sentiment anlaysis can be applied to UN speeches, as well as how these findings can be validated historically and geographically. I also employed a multivariate fixed-effects regression to analyze the effect of various world metrics on speech sentiment. A R Shiny dashboard with some of my compiled findings can be found [here](https://scohen97.shinyapps.io/tad_app/).
@@ -33,6 +34,7 @@ In this project for my Data Science II class, I created models that could classi
 
 </details>
 
+
 - [**Dog Whistle Detection Classifier with LLMs and Word Embeddings**](https://github.com/samuelco1997/Portfolio/tree/main/Dog%20Whistle%20Detection%20with%20LLM-Generated%20Word%20Embeddings)
 
 For this project in my Neural Networks class, I attempted to create a dog whistle classification system using LLM-generated word embeddings from the DistilBERT transformer, in combination with traditional supervised learning techniques, namely K-Nearest Neighbor and Logistic Regression. Results were promising, with accuracy and F1 scores above 0.90.
@@ -42,6 +44,7 @@ For this project in my Neural Networks class, I attempted to create a dog whistl
   <img src="visuals/dw_confusion_matrix" alt="KNN Confusion Matrix" style="width: 300px; height: auto;">
 
 </details>
+
 
 - [**World Health & Happiness Dashboard in Tableau**](https://public.tableau.com/app/profile/sam8656/viz/Worldhealthandhappiness/Dashboard1)
 
