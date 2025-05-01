@@ -26,10 +26,22 @@ This project is my final project deliverable for my Text as Data & Computational
 - [**Classifying Election Violence using Random Forests in Python**](https://github.com/samuelco1997/Portfolio/tree/main/Classifying%20Election%20Violence%20using%20ML%20in%20Python)
 
 In this project for my Data Science II class, I created models that could classify the likelihood of instances of electoral violence using random forest algorithms. A random forest model was fit to the data, yielding an accuracy score of 0.85 and a F1 score of 0.78.
+<details>
+  <summary>Click to see results</summary>
+  <p><strong>Random Forest Confusion Matrix for Conflict Prob.</strong></p>
+  <img src="visuals/conflict_rf_confusion_matrix" alt="Random Forest Confusion Matrix for Conflict Prob." style="width: 300px; height: auto;">
+
+</details>
 
 - [**Dog Whistle Detection Classifier with LLMs and Word Embeddings**](https://github.com/samuelco1997/Portfolio/tree/main/Dog%20Whistle%20Detection%20with%20LLM-Generated%20Word%20Embeddings)
 
 For this project in my Neural Networks class, I attempted to create a dog whistle classification system using LLM-generated word embeddings from the DistilBERT transformer, in combination with traditional supervised learning techniques, namely K-Nearest Neighbor and Logistic Regression. Results were promising, with accuracy and F1 scores above 0.90.
+<details>
+  <summary>Click to see results</summary>
+  <p><strong>KNN Embedding Confusion Matrix for DWs (100 random obs.)</strong></p>
+  <img src="visuals/dw_confusion_matrix" alt="KNN Confusion Matrix" style="width: 300px; height: auto;">
+
+</details>
 
 - [**World Health & Happiness Dashboard in Tableau**](https://public.tableau.com/app/profile/sam8656/viz/Worldhealthandhappiness/Dashboard1)
 
