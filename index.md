@@ -29,7 +29,7 @@ This project is my final project deliverable for my Text as Data & Computational
 In this project for my Data Science II class, I created models that could classify the likelihood of instances of electoral violence using random forest algorithms. A random forest model was fit to the data, yielding an accuracy score of 0.85 and a F1 score of 0.78.
 <details>
   <summary><em>Click to see results</em></summary>
-  <p><strong>Random Forest Confusion Matrix for Conflict Prob.</strong></p>
+  <p>Random Forest Confusion Matrix for Conflict Prob.</p>
   <img src="visuals/conflict_rf_confusion_matrix.png" alt="Random Forest Confusion Matrix for Conflict Prob." style="width: 300px; height: auto;">
 
 </details>
@@ -40,7 +40,7 @@ In this project for my Data Science II class, I created models that could classi
 For this project in my Neural Networks class, I attempted to create a dog whistle classification system using LLM-generated word embeddings from the DistilBERT transformer, in combination with traditional supervised learning techniques, namely K-Nearest Neighbor and Logistic Regression. Results were promising, with accuracy and F1 scores above 0.90.
 <details>
   <summary><em>Click to see results</em></summary>
-  <p><strong>KNN Embedding Confusion Matrix (100 random obs.)</strong></p>
+  <p>KNN Embedding Confusion Matrix (100 random obs.)</p>
   <img src="visuals/dw_confusion_matrix.png" alt="KNN Confusion Matrix" style="width: 300px; height: auto;">
 
 </details>
