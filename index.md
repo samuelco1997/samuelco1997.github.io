@@ -30,7 +30,7 @@ In this project for my Data Science II class, I created models that could classi
 <details>
   <summary>Click to see results</summary>
   <p><strong>Random Forest Confusion Matrix for Conflict Prob.</strong></p>
-  <img src="visuals/conflict_rf_confusion_matrix" alt="Random Forest Confusion Matrix for Conflict Prob." style="width: 300px; height: auto;">
+  <img src="visuals/conflict_rf_confusion_matrix.png" alt="Random Forest Confusion Matrix for Conflict Prob." style="width: 300px; height: auto;">
 
 </details>
 
@@ -41,7 +41,7 @@ For this project in my Neural Networks class, I attempted to create a dog whistl
 <details>
   <summary>Click to see results</summary>
   <p><strong>KNN Embedding Confusion Matrix for DWs (100 random obs.)</strong></p>
-  <img src="visuals/dw_confusion_matrix" alt="KNN Confusion Matrix" style="width: 300px; height: auto;">
+  <img src="visuals/dw_confusion_matrix.png" alt="KNN Confusion Matrix" style="width: 300px; height: auto;">
 
 </details>
 
