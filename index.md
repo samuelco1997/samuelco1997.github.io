@@ -29,7 +29,7 @@ This project is my final project deliverable for my Text as Data & Computational
 In this project for my Data Science II class, I created models that could classify the likelihood of instances of electoral violence using random forest algorithms. A random forest model was fit to the data, yielding an accuracy score of 0.85 and a F1 score of 0.78.
 <details>
   <summary><em>Click to see results</em></summary>
-  <p>Random Forest Confusion Matrix for Conflict Prob.</p>
+  <p>Random Forest Confusion Matrix and Performance for Conflict Prob.</p>
   <img src="visuals/conflict_rf_confusion_matrix.png" alt="Random Forest Confusion Matrix for Conflict Prob." style="width: 300px; height: auto;">
   <img src="visuals/conflict_rf_performance.png" alt="Random Forest Confusion Matrix for Conflict Prob." style="width: 300px; height: auto;">
 
