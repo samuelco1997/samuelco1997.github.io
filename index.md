@@ -23,6 +23,12 @@ For this personal portfolio project, I aimed to create an algorithm that could p
 - [**Topic Modeling & Sentiment Analysis of UN speeches in R**](https://github.com/samuelco1997/Portfolio/tree/main/Topic%20Modeling%20and%20Sentiment%20Analysis%20of%20UN%20Speeches%20in%20R)
 
 This project is my final project deliverable for my Text as Data & Computational Linguistics class. I decided to explore how topic modeling and sentiment anlaysis can be applied to UN speeches, as well as how these findings can be validated historically and geographically. I also employed a multivariate fixed-effects regression to analyze the effect of various world metrics on speech sentiment. A R Shiny dashboard with some of my compiled findings can be found [here](https://scohen97.shinyapps.io/tad_app/).
+<!DOCTYPE html>
+<html>
+<body>
+  <iframe src="https://scohen97.shinyapps.io/tad_app/" width="600" height="400"></iframe>
+</body>
+</html>
 
 - [**Classifying Election Violence using Random Forests in Python**](https://github.com/samuelco1997/Portfolio/tree/main/Classifying%20Election%20Violence%20using%20ML%20in%20Python)
 
