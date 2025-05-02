@@ -12,7 +12,6 @@ This site showcases my data science and analytics-related academic projects, wor
 - [**Predicting Graduation Rates with Regression-type ML Models in Python**](https://github.com/samuelco1997/Portfolio/tree/main/Predicting%20Graduation%20Rates%20with%20Regression-type%20ML%20Models)
 
 For this personal portfolio project, I aimed to create an algorithm that could predict the 4-year graduation rate of higher education institutions using various performance metrics (school composition, enrollment and graduation rates, demographics, test scores, and more). A hyperparameter tuned XGBoost model showed the highest performance (MAE = 4.21, RMSE = 5.70).
->
 <details>
   <summary><em>Click to see results</em></summary>
   <p>XGBoost Performance (predictions vs. true values)</p>
