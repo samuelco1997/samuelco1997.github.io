@@ -28,7 +28,7 @@ This project is my final project deliverable for my Text as Data & Computational
 <!DOCTYPE html>
 <html>
 <body>
-  <iframe src="https://scohen97.shinyapps.io/tad_app/" width="600" height="400"></iframe>
+  <iframe src="https://scohen97.shinyapps.io/tad_app/" width="800" height="400"></iframe>
 </body>
 </html>
 </details>
@@ -59,6 +59,16 @@ For this project in my Neural Networks class, I attempted to create a dog whistl
 - [**World Health & Happiness Dashboard in Tableau**](https://public.tableau.com/app/profile/sam8656/viz/Worldhealthandhappiness/Dashboard1)
 
 This dashboard is the final product of my Google Data Analytics Certificate coursework. It shows health and happiness metrics across the world, pre-pandemic. My credentials for this certificate can be found [here](https://www.coursera.org/account/accomplishments/professional-cert/9QY9C49T9SJP?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof).
+<details>
+  <summary><em>Click to see results</em></summary>
+<!DOCTYPE html>
+<html>
+<body>
+  <iframe src="https://public.tableau.com/app/profile/sam8656/viz/Worldhealthandhappiness/Dashboard1" width="800" height="400"></iframe>
+</body>
+</html>
+</details>
+
 
 ---
 More information on my background, credentials, and accomplishments can be found on my [LinkedIn](https://www.linkedin.com/in/samuel-cohen-b5878b163/) profile. 
