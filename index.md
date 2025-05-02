@@ -16,7 +16,7 @@ For this personal portfolio project, I aimed to create an algorithm that could p
   <summary><em>Click to see results</em></summary>
   <p>XGBoost Performance (predictions vs. true values)</p>
   <img src="visuals/graduation_rates_preds_xgboost.png" alt="XGBoost Performance grad" style="width: 300px; height: auto;">
-
+  <img src="visuals/graduation_rates_performance.png" alt="XGBoost Performance grad" style="width: 300px; height: auto;">
 </details>
 
 
@@ -31,6 +31,7 @@ In this project for my Data Science II class, I created models that could classi
   <summary><em>Click to see results</em></summary>
   <p>Random Forest Confusion Matrix for Conflict Prob.</p>
   <img src="visuals/conflict_rf_confusion_matrix.png" alt="Random Forest Confusion Matrix for Conflict Prob." style="width: 300px; height: auto;">
+  <img src="visuals/conflict_rf_performance.png" alt="Random Forest Confusion Matrix for Conflict Prob." style="width: 300px; height: auto;">
 
 </details>
 
