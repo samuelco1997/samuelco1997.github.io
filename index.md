@@ -73,4 +73,27 @@ This dashboard is the final product of my Google Data Analytics Certificate cour
 ---
 More information on my background, credentials, and accomplishments can be found on my [LinkedIn](https://www.linkedin.com/in/samuel-cohen-b5878b163/) profile. 
 
-  
+<style>
+details {
+  margin-bottom: 1.5em;
+}
+
+details summary {
+  font-weight: bold;
+  color: #0056b3;
+  cursor: pointer;
+  margin-top: 0.5em;
+}
+
+details summary:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
+
+details[open] {
+  padding: 0.5em;
+  background-color: #f9f9f9;
+  border-left: 4px solid #ccc;
+}
+</style>
+
