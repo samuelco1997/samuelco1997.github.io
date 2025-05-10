@@ -79,7 +79,7 @@ details {
 }
 
 details summary {
-  font-weight: bold;
+  font-weight: normal;
   color: #0056b3;
   cursor: pointer;
   margin-top: 0.5em;
